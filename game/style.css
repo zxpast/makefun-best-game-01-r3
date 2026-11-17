@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #070a14;
+  color: #f2ead8;
+  font-family: sans-serif;
+}
+
+#wrap {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 12px;
+}
+
+#game {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: #0e1428;
+  border: 1px solid #232a4a;
+  cursor: crosshair;
+}
+
+#help {
+  margin: 10px 4px 0;
+  font-size: 14px;
+  color: #9aa3c0;
+}
